@@ -1,2 +1,8 @@
 # Proje-Blog
 Blog www.patika.dev
+
+Proje Proje bir blog gönderisi! Veri bilimi ile ilgili ilgini çeken bir alanda bir blog gönderisi yazmanı istiyoruz. Anlatım ne kadar sezgisel olup ezberden uzak olursa o kadar iyi. Bu blog gönderisinin linkini paylaşırsan çok iyi olur
+
+Veri Bilimi ve Hukuk
+Hali hazırda yargılama sürecinin her aşamasında yapılan işlemler yazılı hale getirilmektedir. Yargı Sitemimizdeki mahkeme ve müdürlüklerin her işlemini yazılı olarak kaydetmesi ve bu kaydedilen verilerin büyük bir kısmının günümüzde Ulusal Yargı Ağı Projesi olarak adlandırılan sisteme yüklenmesi ortaya inanılmaz büyüklükte veri yığını oluşturmaktadır. Tüm bu veriler kullanılarak hukuki süreçlere belgelerin tasnifi, özeti, akıllı arama algoritmaları ile benzer verilerin ve bu veriler ile oluşturulan kararların incelenmesi veri biliminin hukuk alanı içerisindeki önemini arttırmaktadır. Türk Yargı Sisteminin kademeli oluşturularak mahkemeler arasında hiyerarşiye sahip olması; alt mahkemelerin kendilerinden hiyerarşik olarak üstte konumlandırılan mahkemelerin kararlarının dikkate alınması gerekliği ve sistem içerisinde yer alan taraf vekili olan avukatlarının da bu gerekliliği temsil ettiği müvekkillerinin haklarını korumada ve/ya savunmada araç olarak kullanmalarına yol açmıştır. Bu noktada hukuk alanında çalışan kişilerin yargılama süreçlerinin hızlanması ve içtihatlar arasında birliğin sağlanması konusunda veri biliminin önemi yadsınamaz.  Veri bilimi ve yapay zekanın hukuk alanında kullanımının arttırılması sonucunda bu alanda çalışan kişilerin iş yükünü hafifleteceği gibi mahkemelerce verilecek kararların kalitelerini de arttıracaktır.
+
